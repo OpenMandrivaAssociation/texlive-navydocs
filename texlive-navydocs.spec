@@ -1,6 +1,6 @@
 Name:		texlive-navydocs
 Version:	41643
-Release:	1
+Release:	2
 Summary:	Support for Technical Reports by US Navy Organizations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/navydocs
